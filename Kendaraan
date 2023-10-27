@@ -1,0 +1,11 @@
+#no1
+kendaraan=["B 2465 sar", "mobil", "250","Hitam"]
+
+print(kendaraan)
+
+kendaraan.append("1,3 Milyar")
+kendaraan.append("4 roda")
+kendaraan.insert(2,"Alphard")
+kendaraan.insert(1,"2,5 G")
+
+print(kendaraan)
